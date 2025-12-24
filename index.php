@@ -6,6 +6,19 @@
     <title>Document</title>
 </head>
 <body>
-    <table></table>
+    <div class="container-fluid">
+        <div class="row">
+
+        <div class="col-md-2 p-3 border-end sticky-top">
+            <?php include 'menu.php'; ?>
+        </div>
+
+        <div class="col-md-10 p-4">
+            <h2>Konten Halaman</h2>
+            <p>Isi halaman kamu di sini...</p>
+        </div>
+
+        </div>
+    </div>
 </body>
 </html>
