@@ -6,4 +6,5 @@
 
 <ul class="list-unstyled">
   <li class="mb-2"><a class="text-decoration-none" href="index.php">Index</a></li>
+  <li class="mb-2"><a class="text-decoration-none" href="halaman1.php">Halaman 1</a></li>
 </ul>
