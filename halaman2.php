@@ -12,7 +12,18 @@
                 <?php include 'menu.php'; ?>
             </div>
             <div class="col-md-10 p-4">
-                <p>fgrtyr</p>
+                <table>
+                    <tr>
+                        <th>No</th>
+                        <th>Nama</th>
+                        <th>Jenis Kelamin</th>
+                        <th>Alamat</th>
+                        <th>Aksi</th>
+                    </tr>
+                    <tr>
+                        <td></td>
+                    </tr>
+                </table>
             </div>
         </div>  
     </div>

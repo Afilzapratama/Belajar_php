@@ -15,7 +15,7 @@
             <div class="col-md-10 p-4">
                 <h1 class="text-center">Form Pendaftaran Siswa SMA XX</h1>
                 <hr>
-                <form action="">
+                <form action="halaman2.php" method="POST">
                     <div class="col-md-12">
                         <div class="row">
                             <div class="col-md-6">
