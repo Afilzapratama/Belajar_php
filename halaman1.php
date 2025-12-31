@@ -25,7 +25,7 @@
                                     <div class="col-md-9">
                                         <div class="form-group">
                                             <label for="">Nama Lengkap: </label>
-                                            <input type="text" class="form-control">
+                                            <input type="text" class="form-control" name="nama">
                                         </div>
                                     </div>
                                     <div class="col-md-3">
@@ -44,7 +44,7 @@
                                     </div>
                                     <div class="col-md-6">
                                         <label for="">Jenis Kelamin:</label>
-                                        <select name="" id="" class="form-control">
+                                        <select name="jenis_kelamin" id="" class="form-control">
                                             <option value="" selected disabled>-=Pilih Jenis Kelamin=-</option>
                                             <option value="Laki-Laki">Laki-Laki</option>
                                             <option value="Perempuan">Perempuan</option>
@@ -53,7 +53,7 @@
                                 </div>
                                 <div class="form-group">
                                     <label for="">Alamat Lengkap: </label>
-                                    <textarea name="" id="" class="form-control"></textarea>
+                                    <textarea name="alamat" id="" class="form-control"></textarea>
                                 </div>
                                 <div class="row">
                                     <div class="col-md-6">
